@@ -25,4 +25,5 @@
 |1|1|1227|2019-12-19|归纳法|2019-12-19|归纳法|1|[链接](https://leetcode-cn.com/problems/airplane-seat-assignment-probability/)|
 |1|1|96|2019-12-19|动态规划|2019-12-19|动态规划|1|[链接](https://leetcode-cn.com/problems/unique-binary-search-trees/)|
 |2|1|1221|2019-12-24|自己第一直觉 错误|2019-12-24|栈|3|[链接](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|
-|3|1|1189|2019-12-26|第一次递归没写出来|2019-12-26|递归，两颗树进行比较|２|[链接](https://leetcode-cn.com/problems/symmetric-tree/)|
+|3|0|101|2019-12-26|第一次递归没写出来|2019-12-26|递归，两颗树进行比较|2|[链接](https://leetcode-cn.com/problems/symmetric-tree/)|
+|3|0|235|2020-1-1|第一次没思路|2020-1-1|迭代|2|[链接](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|

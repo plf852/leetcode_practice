@@ -1,3 +1,7 @@
+from tree.my_lib import *
+root = initTree([5,4,8,11,None,13,4,7,2,None,None,None,None,5,1])
+
+
 class TreeNode:
     def __init__(self, x):
         self.val = x
@@ -19,3 +23,6 @@ class Solution:
         path += '->'
         self.printPath(root.left, path)
         self.printPath(root.right, path)
+
+s = Solution()
+print(s.binaryTreePaths(root))

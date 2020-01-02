@@ -26,8 +26,11 @@
 |1|1|96|2019-12-19|动态规划|2019-12-19|动态规划|1|[链接](https://leetcode-cn.com/problems/unique-binary-search-trees/)|
 |2|1|1221|2019-12-24|自己第一直觉 错误|2019-12-24|栈|3|[链接](https://leetcode-cn.com/problems/split-a-string-in-balanced-strings/)|
 |3|0|101|2019-12-26|第一次递归没写出来|2019-12-26|递归，两颗树进行比较|2|[链接](https://leetcode-cn.com/problems/symmetric-tree/)|
-|3|0|235|2020-1-1|第一次没思路|2020-1-1|迭代|2|[链接](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
 |3|0|1189|2019-12-26|第一次递归没写出来|2019-12-26|递归，两颗树进行比较|２|[链接](https://leetcode-cn.com/problems/symmetric-tree/)|
 |3|0|107|2019-12-29|以前只写过不分层打印的|2019-12-29|只用增加一个队列大小就可以分层打印|２|[链接](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)|
 |3|0|111|2019-12-29|以为跟求最大深度类似，但是其实并不是，所以错误|2019-12-29|注意边界，考虑完整情况|3|[链接](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree)|
 |3|0|112|2019-12-29|不会遍历，不会转化为递归问题|2019-12-29|使用递归解决|2|[链接](https://leetcode-cn.com/problems/path-sum)|
+|3|0|235|2020-1-1|递归|2020-1-1|迭代|2|[链接](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|
+|3|0|257|2020-1-1|第一次没思路|2020-1-1|增加path参数|1|[链接](https://leetcode-cn.com/problems/binary-tree-paths/)|
+|3|0|113|2020-1-2|写成了局部路径，导致路径输出错误|2020-1-2|修改成全局路径|2|[链接](https://leetcode-cn.com/problems/path-sum-ii/)|
+|3|0|543|2020-1-2|通过但是运行时间只超过了10%|2020-1-2|通过一个max变量|2|[链接](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|

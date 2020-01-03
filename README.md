@@ -34,3 +34,4 @@
 |3|0|257|2020-1-1|第一次没思路|2020-1-1|增加path参数|1|[链接](https://leetcode-cn.com/problems/binary-tree-paths/)|
 |3|0|113|2020-1-2|写成了局部路径，导致路径输出错误|2020-1-2|修改成全局路径|2|[链接](https://leetcode-cn.com/problems/path-sum-ii/)|
 |3|0|543|2020-1-2|通过但是运行时间只超过了10%|2020-1-2|通过一个max变量|2|[链接](https://leetcode-cn.com/problems/diameter-of-binary-tree/)|
+|3|0|606|2020-1-3|没思路|2020-1-2|看了解答|2|[链接](https://leetcode-cn.com/problems/subtree-of-another-tree/)|

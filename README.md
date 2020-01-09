@@ -10,6 +10,7 @@
 |动态规划|1|
 |字符串|2|
 |树|3|
+|哈希表|4|
 
 |题目级别|类型编号|
 |-|-|
@@ -37,3 +38,4 @@
 |3|0|606|2020-1-3|没思路|2020-1-2|看了解答|2|[链接](https://leetcode-cn.com/problems/subtree-of-another-tree/)|
 |3|0|617|2020-1-4|没思路|2020-1-4|递归合并|1|[链接](https://leetcode-cn.com/problems/merge-two-binary-trees/)|
 |3|0|653|2020-1-4|未考虑k = 2A的情况|2020-1-4|边建表边查询|1|[链接](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)|
+|4|0|205|2020-1-9|未考虑某些特殊情况|2020-1-9|转化问题|2|[链接](https://leetcode-cn.com/problems/isomorphic-strings/)|

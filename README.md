@@ -39,4 +39,6 @@
 |3|0|617|2020-1-4|没思路|2020-1-4|递归合并|1|[链接](https://leetcode-cn.com/problems/merge-two-binary-trees/)|
 |3|0|653|2020-1-4|未考虑k = 2A的情况|2020-1-4|边建表边查询|1|[链接](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/)|
 |4|0|205|2020-1-9|未考虑某些特殊情况|2020-1-9|转化问题|2|[链接](https://leetcode-cn.com/problems/isomorphic-strings/)|
-|4|0|219|2020-1-10|自己思路复杂，超时|2020-1-10|转化问题|2|[链接](https://leetcode-cn.com/problems/contains-duplicate-ii//)|
+|4|0|219|2020-1-10|自己思路复杂，超时|2020-1-10|转化问题|2|[链接](https://leetcode-cn.com/problems/contains-duplicate-ii/)|
+|4|0|219|2020-1-12|自己思路n^3，超时|2020-1-12|对矩阵元素进行hash|2|[链接](https://leetcode-cn.com/problems/number-of-boomerangs/)|
+|4|0|219|2020-1-12|以为必须会死方阵|2020-1-12|每个1的贡献边数|2|[链接](https://leetcode-cn.com/problems/island-perimeter/)|

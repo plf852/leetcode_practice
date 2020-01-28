@@ -11,6 +11,7 @@
 |字符串|2|
 |树|3|
 |哈希表|4|
+|贪心|5|
 
 |题目级别|类型编号|
 |-|-|
@@ -42,3 +43,5 @@
 |4|0|219|2020-1-10|自己思路复杂，超时|2020-1-10|转化问题|2|[链接](https://leetcode-cn.com/problems/contains-duplicate-ii/)|
 |4|0|219|2020-1-12|自己思路n^3，超时|2020-1-12|对矩阵元素进行hash|2|[链接](https://leetcode-cn.com/problems/number-of-boomerangs/)|
 |4|0|219|2020-1-12|以为必须会死方阵|2020-1-12|每个1的贡献边数|2|[链接](https://leetcode-cn.com/problems/island-perimeter/)|
+|5|0|219|2020-1-28|双层循环n^2|2020-1-28|现将所有奇（或偶）数移动到某个奇（或偶）数位，然后再将所有奇数（偶数）移动到偶数（奇数）位置|2|[链接](https://leetcode-cn.com/problems/play-with-chips/)|
+|5|0|219|2020-1-28|无思路|2020-1-28|对差进行排序|1|[链接](https://leetcode-cn.com/problems/two-city-scheduling)|

@@ -12,6 +12,9 @@
 |树|3|
 |哈希表|4|
 |贪心|5|
+|排序|6|
+|双指针|7|
+
 
 |题目级别|类型编号|
 |-|-|
@@ -45,3 +48,9 @@
 |4|0|219|2020-1-12|以为必须会死方阵|2020-1-12|每个1的贡献边数|2|[链接](https://leetcode-cn.com/problems/island-perimeter/)|
 |5|0|219|2020-1-28|双层循环n^2|2020-1-28|现将所有奇（或偶）数移动到某个奇（或偶）数位，然后再将所有奇数（偶数）移动到偶数（奇数）位置|2|[链接](https://leetcode-cn.com/problems/play-with-chips/)|
 |5|0|219|2020-1-28|无思路|2020-1-28|对差进行排序|1|[链接](https://leetcode-cn.com/problems/two-city-scheduling)|
+|6|0|219|2020-1-29|无思路|2020-1-29|冒泡排序减少计算量|2|[链接](https://leetcode-cn.com/problems/largest-perimeter-triangle)|
+|6|0|219|2020-1-29|找到不同距离的各个点，自己之前焦点在距离，而后面焦点在网格|2020-1-29|开辟一个空间存储不同距离的的点|2|[链接](https://leetcode-cn.com/problems/matrix-cells-in-distance-order)|
+|7|0|219|2020-1-30|想着从后面找到第一个不是目标数，替换到当前位置上|2020-1-30|两种简单方法|3|[链接](https://leetcode-cn.com/problems/remove-element)|
+|7|0|345|2020-1-31|用空间换时间，用栈来翻转字符|2020-1-31|采用头尾双指针，注意边界条件|4|[链接](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)|
+|7|0|141|2020-1-31||2020-1-31|通过双指针判断链表中有没有环|1|[链接](https://leetcode-cn.com/problems/linked-list-cycle)|
+|7|0|234|2020-2-1|自己想到复制链表数据到数组中，然后使用双指针判断，但是空间复杂度为O(n)|2020-2-1|通过反转后半部分链表，然后通过两边对比，来判断|2|[链接](https://leetcode-cn.com/problems/palindrome-linked-list)|

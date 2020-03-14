@@ -14,6 +14,8 @@
 |贪心|5|
 |排序|6|
 |双指针|7|
+|栈|8|
+|堆|9|
 
 
 |题目级别|类型编号|
@@ -54,3 +56,5 @@
 |7|0|345|2020-1-31|用空间换时间，用栈来翻转字符|2020-1-31|采用头尾双指针，注意边界条件|4|[链接](https://leetcode-cn.com/problems/reverse-vowels-of-a-string)|
 |7|0|141|2020-1-31||2020-1-31|通过双指针判断链表中有没有环|1|[链接](https://leetcode-cn.com/problems/linked-list-cycle)|
 |7|0|234|2020-2-1|自己想到复制链表数据到数组中，然后使用双指针判断，但是空间复杂度为O(n)|2020-2-1|通过反转后半部分链表，然后通过两边对比，来判断|2|[链接](https://leetcode-cn.com/problems/palindrome-linked-list)|
+|8|0|1021|2020-2-2|无思路|2020-2-2|参考了答案，使用一个变量记录括号的数量|1|[链接](https://leetcode-cn.com/problems/remove-outermost-parentheses/)|
+|9|0|703|2020-2-9|采用优先队列存入了所有元素，最后导致一个测试用例超时|2020-2-9|采用堆，只存储k个大小的元素|2|[链接](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream)|

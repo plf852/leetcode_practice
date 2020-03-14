@@ -39,3 +39,17 @@ def levelOrder(root: TreeNode):
                 deq.append(first.right)
         res.append(tmp)
     return list(res)
+
+def buildTree(preorder, inorder) -> TreeNode:
+    if preorder==[] or inorder==[]:
+        return None
+    def findNum(target):
+        for i in range(len(inorder)):
+            if inorder[i] == target:
+                return i
+        return -1
+    root = TreeNode(preorder[0])
+    index = findNum(preorder[0])
+    root.left = buildTree(preorder[1:index+1],inorder[:index])
+    root.right = buildTree(preorder[index+1:len(preorder)],inorder[index+1:len(inorder)])
+    return root
